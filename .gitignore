@@ -1,0 +1,8 @@
+.deps
+config.*
+*.o
+*.a
+*.so
+*~
+Makefile
+
